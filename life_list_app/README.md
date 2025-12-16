@@ -31,3 +31,8 @@ life_lists_project/
 ├── db.sqlite3            # Dev database (ignored in git)
 ├── venv/                 # Virtual environment (ignored in git)
 └── README.md             # This file
+
+---
+
+## Check list
+
